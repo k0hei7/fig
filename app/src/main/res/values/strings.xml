@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fig</string>
+    <string name="default_notification_channel_id" translatable="true">fcm_default_channelID</string>
+    <string name="default_notification_channel_name" translatable="true">fcm_default_channelname</string>
+</resources>
